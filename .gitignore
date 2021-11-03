@@ -100,5 +100,9 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
-# TernJS port file
+# TernJS port file aa
 .tern-port
+
+#Configuracion de Visual Studio Code
+
+#Si tuviera .vscode
