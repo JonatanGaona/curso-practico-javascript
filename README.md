@@ -1,4 +1,8 @@
 # curso-practico-javascript
+- Primer paso: git add archivo.js
+- Segundo paso: git commit -m "Cambio realizado" - git log
+- Tercer paso: git push 
+
 
 ## Taller #1: figuras geometricas
 
